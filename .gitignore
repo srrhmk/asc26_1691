@@ -1,0 +1,26 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.backup
+
+# Generated PDF
+# *.pdf
+# Keep it for previewing
+
+# Directory for auxiliary files
+_build/
+
+.omc/
